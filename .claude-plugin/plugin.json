@@ -1,0 +1,6 @@
+{
+  "name": "pr-review",
+  "version": "0.1.0",
+  "description": "Four-agent parallel PR review for PestPac — standards, security, test coverage, and breaking changes. Posts to GitHub after confirmation.",
+  "author": { "name": "WorkWave PestPac" }
+}
