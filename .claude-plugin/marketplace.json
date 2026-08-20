@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pestpac-pr-review",
+  "description": "WorkWave PestPac internal plugins for pull request review",
+  "owner": {
+    "name": "WorkWave PestPac"
+  },
+  "plugins": [
+    {
+      "name": "pr-review",
+      "source": "./",
+      "description": "Four-agent parallel PR review for PestPac — standards, security, test coverage, and breaking changes. Posts to GitHub after confirmation.",
+      "author": {
+        "name": "WorkWave PestPac"
+      }
+    }
+  ]
+}
